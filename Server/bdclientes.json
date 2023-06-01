@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "name": "Maria bonita",
+      "location": "Brazil"
+    },
+    {
+      "id": "3",
+      "name": "Jose",
+      "location": "Francammmmm"
+    },
+    {
+      "id": "4",
+      "name": "Flavio",
+      "location": "Uruguai"
+    },
+    {
+      "name": "Rrrr",
+      "location": "Ttyt",
+      "id": "5giR-1G"
+    },
+    {
+      "name": "Rrrr",
+      "location": "Ttyt3",
+      "id": "dDxW0uA"
+    },
+    {
+      "name": "Erica",
+      "location": "Brazil",
+      "id": "XTmFA9k"
+    }
+  ]
+}
