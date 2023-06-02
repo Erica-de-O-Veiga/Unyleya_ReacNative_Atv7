@@ -1,0 +1,22 @@
+{
+    "produtos": [
+      {
+        "id": "1",
+        "codigo": "01",
+        "descrição": "Produto 1",
+        "categoria" : "Acessorios",
+        "quantidade": "10.0",
+        "img" : "https://cdn.pixabay.com/photo/2012/04/13/20/40/ring-33573_1280.png" 
+      },
+      {
+        "id": "2",
+        "codigo": "02",
+        "descrição": "Produto 2",
+        "categoria" : "Acessorios2",
+        "quantidade": "20.0",
+        "img" : "https://cdn.pixabay.com/photo/2012/04/13/20/40/ring-33573_1280.png" 
+      }
+   
+     
+    ]
+  }
